@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+	"overrides": [
+        {"predicate": {"custom_model_data": 0}, "model": "apple/original"},
+        {"predicate": {"custom_model_data": 1}, "model": "apple/apple_1"}
+    ]
+}

@@ -1,0 +1,7 @@
+{
+	"custom.monster": {
+		"category": "record",
+		"replace": true,
+		"sounds": [{"name": "custom/monster.ogg", "stream": true}]
+	}
+}

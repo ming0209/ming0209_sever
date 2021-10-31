@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+	"overrides": [
+        {"predicate": {"custom_model_data": 0}, "model": "fish/original_cod"},
+        {"predicate": {"custom_model_data": 1}, "model": "fish/cod_1"}
+    ]
+}

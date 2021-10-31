@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+	"overrides": [
+        {"predicate": {"custom_model_data": 0}, "model": "knowledge_book/original"},
+        {"predicate": {"custom_model_data": 1}, "model": "knowledge_book/mill_chest"},
+        {"predicate": {"custom_model_data": 10}, "model": "knowledge_book/redpocket"},
+        {"predicate": {"custom_model_data": 11}, "model": "knowledge_book/redpocket_pro"}
+    ]
+}
